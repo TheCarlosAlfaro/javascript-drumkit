@@ -7,7 +7,7 @@ With the following features:
 * When user press certain keys sounds will be trigger
 * When a sound its trigger a css animation will take place
 
-![example-site](https://javascriptdrumkit.netlify.com/)
+![https://javascriptdrumkit.netlify.com/]
 
 ## Objectives
 
