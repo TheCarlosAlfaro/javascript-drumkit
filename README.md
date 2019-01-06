@@ -43,18 +43,3 @@ With the following features:
  * [ ] Return if event it's not equal to transform
  * [ ] Remove class 'playing'
  * [ ] Refactor code by creating a function called 'playSound'
-
-
-
-## Deploy
-
-* ✅ Deploy server with now
-  * [x] Setup environment variables
-    * [x] Database connection
-      * process.env.MONGO_URI
-  * ✅ Show mlab
-  * [ ] Deploy with environment variable
-    * now -e MONGO_URI=@meower-db
-  * [ ] Add alias
-* ✅ Deploy client folder with now
-  * [ ] Set API_URL based on hostname
