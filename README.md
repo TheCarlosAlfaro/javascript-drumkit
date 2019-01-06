@@ -20,26 +20,26 @@ With the following features:
 
 ## Pre-Javascript
 
-* [ ] Open Dev tools and show how the .playing css class is working
-* [ ] Look into the styles.css and show the css animation rules
-* [ ] Explain the html structure with the .keys and .key classes
-* [ ] Explain how keyboard keycodes work. Use (keycode.info)
-* [ ] What is "data" attributes? and how are we using it?
+* [X] Open Dev tools and show how the .playing css class is working
+* [X] Look into the styles.css and show the css animation rules
+* [X] Explain the html structure with the .keys and .key classes
+* [X] Explain how keyboard keycodes work. Use (keycode.info)
+* [X] What is "data" attributes? and how are we using it?
  
  ## The actual Javascript
 
- * [ ] Listen for 'keydown' event on window
- * [ ] Demonstrate de event.keycode
- * [ ] Check if theres is a sound on the page that matches the key that was pressed
- * [ ] Select the corresponding audio element by using an attribute selector
- * [ ] If there is no audio related to the key return
- * [ ] Play audio
- * [ ] Rewind audio to the start so it plays everytime you hit the key
- * [ ] Select the corresponding key to add animation class
- * [ ] Remove the class by using a transitionend event
- * [ ] Listen to each key to when transitionend happens
- * [ ] Create function to remove transition
- * [ ] Pick the transform property name
- * [ ] Return if event it's not equal to transform
- * [ ] Remove class 'playing'
- * [ ] Refactor code by creating a function called 'playSound'
+ * [X] Listen for 'keydown' event on window
+ * [X] Demonstrate de event.keycode
+ * [X] Check if theres is a sound on the page that matches the key that was pressed
+ * [X] Select the corresponding audio element by using an attribute selector
+ * [X] If there is no audio related to the key return
+ * [X] Play audio
+ * [X] Rewind audio to the start so it plays everytime you hit the key
+ * [X] Select the corresponding key to add animation class
+ * [X] Remove the class by using a transitionend event
+ * [X] Listen to each key to when transitionend happens
+ * [X] Create function to remove transition
+ * [X] Pick the transform property name
+ * [X] Return if event it's not equal to transform
+ * [X] Remove class 'playing'
+ * [X] Refactor code by creating a function called 'playSound'
